@@ -48,7 +48,7 @@
 # Sobre o Projeto
 
 - PROJETO:  SISTEMA DE CADASTRO SIMPLES - E COM BANDO DE DADOS
-- Projeto basico de CSharp em Laboratório , desenvolver  um sistema basico, Cadastro simples, onde simula, inserindo dados da pessoa no sistema, esse programa  tem banco de dados com estrutura básica, sua implementação é executado no localhost, na maquina local.
+- Projeto basico de CSharp em Laboratório , desenvolver um sistema basico, Cadastro simples, onde simula, inserindo dados da pessoa no sistema, esse programa  tem banco de dados com estrutura básica, que simula gravando dados e retorna o dados na tela de cadastro, sua implementação é executado no localhost, na maquina local.
 - Aprendizado, e o conhecimento básicos e aperfeiçomento em técnicas e desenvolvimento em sistema 2023
 - Data:  15/02/2023
 - Aluno: Jonas Valereo - Técnico em Informática
