@@ -1,0 +1,10 @@
+C:\Users\Jonas Programador\source\repos\CadastroSimples\CadastroSimples\bin\Debug\CadastroSimples.exe.config
+C:\Users\Jonas Programador\source\repos\CadastroSimples\CadastroSimples\bin\Debug\CadastroSimples.exe
+C:\Users\Jonas Programador\source\repos\CadastroSimples\CadastroSimples\bin\Debug\CadastroSimples.pdb
+C:\Users\Jonas Programador\source\repos\CadastroSimples\CadastroSimples\obj\Debug\CadastroSimples.csproj.AssemblyReference.cache
+C:\Users\Jonas Programador\source\repos\CadastroSimples\CadastroSimples\obj\Debug\CadastroSimples.Form1.resources
+C:\Users\Jonas Programador\source\repos\CadastroSimples\CadastroSimples\obj\Debug\CadastroSimples.Properties.Resources.resources
+C:\Users\Jonas Programador\source\repos\CadastroSimples\CadastroSimples\obj\Debug\CadastroSimples.csproj.GenerateResource.cache
+C:\Users\Jonas Programador\source\repos\CadastroSimples\CadastroSimples\obj\Debug\CadastroSimples.csproj.CoreCompileInputs.cache
+C:\Users\Jonas Programador\source\repos\CadastroSimples\CadastroSimples\obj\Debug\CadastroSimples.exe
+C:\Users\Jonas Programador\source\repos\CadastroSimples\CadastroSimples\obj\Debug\CadastroSimples.pdb
