@@ -13,7 +13,7 @@
 ##
 
 <a href="#">
-<img align="center"  alt="jonas-Layout" height ="700" width ="850" src ="https://user-images.githubusercontent.com/25933386/227806340-9d3c9063-92ea-43cd-8505-80fc99c31753.JPG"></img>
+<img align="center"  alt="jonas-Layout" height ="700" width ="900" src ="https://user-images.githubusercontent.com/25933386/227806340-9d3c9063-92ea-43cd-8505-80fc99c31753.JPG"></img>
 </a>
 
 # Logo C#
